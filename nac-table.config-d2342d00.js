@@ -12,7 +12,7 @@ const config = {
   properties: {
     collection: {
       type: 'string',
-      title: 'JSONData to be surfaced or displayed'
+      title: '[{"columnheader1":"Travel","columnheader2":"24/02/2023","columnheader3":"SGD","columnheader4":"324.0"},{"columnheader1":"Food","columnheader2":"25/02/2023","columnheader3":"USD","columnheader4":"23.0"}]'
     },
     value: {
       type: 'string',
